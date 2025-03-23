@@ -9,6 +9,8 @@ A comprehensive end-to-end data analytics project designed to extract actionable
 
 This project simulates a real-world e-commerce business scenario, focusing on analyzing sales performance, customer demand, cancellation rates, and supply-chain efficiency using cleaned transaction data from multiple sources.
 
+📥 The raw dataset was originally downloaded from **Kaggle**, then transformed and structured for analysis using Python and SQL.
+
 ---
 
 ## 📁 Folder Structure
