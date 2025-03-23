@@ -128,6 +128,6 @@ The final Tableau Public dashboard visualizes all 4 KPIs in a clean, structured 
 
 Author: **[Alekhya Ramisetti]**  
 📧 Email: [ar89z@umsystem.edu]  
-🔗 LinkedIn: [linkedin.com/in/https://www.linkedin.com/in/alekhyaramisetti/](https://www.linkedin.com/in/alekhyaramisetti/)
+🔗 LinkedIn: (https://www.linkedin.com/in/alekhyaramisetti/)
 
 ---
