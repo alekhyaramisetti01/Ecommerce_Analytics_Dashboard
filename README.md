@@ -91,7 +91,7 @@ Explore the full Power BI dashboard for the Bank Marketing Campaign Analysis:
 🔗 [Click here to view the published report](https://public.tableau.com/views/ecommerce_analytics_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-![Dashboard Screenshot](Dashboard 1.png)
+![Dashboard Screenshot](Dashboard%201.png)
 
 ---
 
