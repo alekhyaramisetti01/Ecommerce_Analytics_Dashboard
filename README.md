@@ -104,16 +104,6 @@ Explore the full Power BI dashboard for the Bank Marketing Campaign Analysis:
 
 ---
 
-## 🚀 How to Reproduce
-
-1. Clone the repo
-2. Add raw datasets to `data/raw/`
-3. Run Python cleaning scripts in `scripts/`
-4. Use SQL scripts in `sql/create/` and `sql/load/` to prepare PostgreSQL
-5. Run `export_kpis_to_csv.py` to generate KPI data
-6. Import CSVs in Tableau and build the dashboard using saved sheets
-
----
 
 ## 🧩 Dashboard Highlights
 
