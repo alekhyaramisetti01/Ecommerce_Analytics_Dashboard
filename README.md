@@ -81,7 +81,7 @@ A dynamic script was also used to **auto-generate `CREATE TABLE` statements** fr
 | 📉 **Monthly Revenue**          | Tracks monthly business revenue trends using line charts                    |
 | ❌ **Cancellation Rate by Category** | Highlights product categories with the highest return rates              |
 | 🏆 **Top Products by Revenue**     | Lists the top 10 revenue-generating products (domestic + international) |
-| 🎯 **Stock vs Orders (Bullet Chart)** | Custom bullet chart visualizing over-demanded or understocked SKUs      |
+| 🎯 **Stock vs Orders** | Custom bullet chart visualizing over-demanded or understocked SKUs      |
 
 ---
 ## 📌 Dashboard Snapshot
@@ -101,19 +101,6 @@ Explore the full Tableau dashboard for the E-commerce platform for the period of
 - Automating schema generation and KPI exports using dynamic scripts
 - Designing executive-level dashboards using real business insights
 - Presenting supply vs. demand imbalances visually using bullet and dot plots
-
----
-
-
-## 🧩 Dashboard Highlights
-
-- **Tableau Public** with interactive sheets
-- Exported KPIs visualized through:
-  - Line charts
-  - Dot plots
-  - Grouped bars
-  - Bullet graphs
-- Clean labels, color-coded metrics, and category filters
 
 ---
 
