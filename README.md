@@ -86,7 +86,7 @@ A dynamic script was also used to **auto-generate `CREATE TABLE` statements** fr
 ---
 ## 📌 Dashboard Snapshot
 
-Explore the full Power BI dashboard for the Bank Marketing Campaign Analysis:
+Explore the full Tableau dashboard for the E-commerce platform for the period of March–June 2022.:
 
 🔗 [Click here to view the published report](https://public.tableau.com/views/ecommerce_analytics_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
