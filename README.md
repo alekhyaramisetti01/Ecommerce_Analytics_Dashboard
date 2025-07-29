@@ -84,13 +84,14 @@ A dynamic script was also used to **auto-generate `CREATE TABLE` statements** fr
 | 🎯 **Stock vs Orders (Bullet Chart)** | Custom bullet chart visualizing over-demanded or understocked SKUs      |
 
 ---
+## 📌 Dashboard Snapshot
 
-## 📊 Dashboard Preview
+Explore the full Power BI dashboard for the Bank Marketing Campaign Analysis:
 
-The final Tableau Public dashboard visualizes all 4 KPIs in a clean, structured layout.
+🔗 [Click here to view the published report](https://public.tableau.com/views/ecommerce_analytics_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-📎 Exported as PDF:  
-**`dashboards/ecommerce_dashboard_final.pdf`**
+
+![Dashboard Screenshot](dashboard1.png)
 
 ---
 
